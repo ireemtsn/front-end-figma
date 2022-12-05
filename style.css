@@ -1,0 +1,108 @@
+.btncolor
+{
+ background-color: #54BD95;
+}
+
+.navbar-brand
+{
+    color: #54BD95;
+    margin-left: 50px;
+    font-size: 30px;
+}
+
+.body {
+    background: rgb(255, 255, 255);
+    font-family: "Open Sans", sans-serif;
+  }
+
+.yazi-özellik1{
+  position: absolute;
+  width: 555px;
+  height: 270px;
+  left: 130px;
+  top: 210px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 90px;
+  /* or 112% */
+  color: #191A15;
+ }
+
+.yazi-özellik2{
+position: absolute;
+width: 461px;
+height: 90px;
+left: 130px;
+top: 586px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 30px;
+/* or 167% */
+color: #000000;
+
+ }
+
+ .cerceve{
+  position: absolute;
+  width: 410px;
+  height: 526px;
+  left: 900px;
+  top: 210px;
+  
+  background: #52BD94;
+  border-radius: 10px;
+  
+ }
+
+ .body-button{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 30px;
+  gap: 10px;
+  
+  position: absolute;
+  width: 165px;
+  height: 62px;
+  left: 130px;
+  top: 726px;
+  
+  background: #54BD95;
+  border-radius: 40px;
+  color: #FFFFFF;
+ }
+
+ .body-image{
+  
+  position: absolute;
+  width: 437px;
+  height: 438px;
+  left: -10px;
+  top: 92px;
+ }
+
+ .body-credi-card{
+position: absolute;
+width: 146px;
+height: 188px;
+left: 1280.66px;
+top: 500px;
+
+background: #161C28;
+border-radius: 10px;
+transform: rotate(15deg);
+
+}
+
+
+
+
+
+
+
