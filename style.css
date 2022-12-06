@@ -100,6 +100,17 @@ transform: rotate(15deg);
 
 }
 
+.vector32{
+/* Vector 32 */
+position: absolute;
+width: 479px;
+height: 26px;
+left: 130px;
+top: 510px;
+border: 8px solid #54BD95;
+
+}
+
 
 
 
