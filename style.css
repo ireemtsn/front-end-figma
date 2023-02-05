@@ -1,5 +1,6 @@
 .footer{
   background-color: #161C28;
+ 
 }
 .footertext1{
   color:white;
@@ -10,7 +11,7 @@
 }
 .product{
  color:white;
- font-size: 18 px;
+ font-size: 18px;
 }
 .help{
   color:white;
@@ -31,3 +32,23 @@
   color:#ffffff;
 }
 
+.aria-zinnanrio{
+font-size: 18px;
+color: white;
+}
+
+.navbar-brand{
+  font-size: 50px;
+  color: #54BD95;
+}
+
+.nav-item-login{
+ 
+}
+
+.card{
+width: 437px;
+height: 290px;
+right: -1100px;
+background: #52BD94;
+}
