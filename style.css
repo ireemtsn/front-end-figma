@@ -81,3 +81,14 @@ margin-left: 15px ;
   color: white;
   border-color:#54BD95;
 }
+
+.view-demo{
+  border: 1.5px;
+  width: 31.67px;
+  height: 31.67px;
+  border: 1.5px solid #191A15;
+}
+
+.p3{
+  text-align: center;
+}
