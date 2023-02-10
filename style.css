@@ -98,9 +98,11 @@ margin-left: 15px ;
 }
 
 .p4{
-width: 617px;
-height: 122px;
-left: 130px;
-top: 1254px;
-color: #191A15;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 61px;
+  height: 122px;
+  left: 130px;
+  top: 1254px;
+  margin-left: 18px;
 }
