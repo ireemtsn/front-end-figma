@@ -154,3 +154,9 @@ border-color:white
   }
 }
 
+.kredi-kart{
+  position: relative;
+  left: -40px;
+  margin-top: 80px;
+  padding-top: 80px;
+}
